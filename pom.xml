@@ -38,15 +38,6 @@
 	</build>
 
 
-<distributionManagement>
 
-  <url>https://pkgs.dev.azure.com/supradipm/_packaging/supradipm/maven/v1</url>
-  <releases>
-    <enabled>true</enabled>
-  </releases>
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
-</distributionManagement>
 	
 </project>
